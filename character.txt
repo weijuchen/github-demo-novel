@@ -11,3 +11,10 @@ Gabby
 
 
 May
+
+
+learn how to use 
+git commit --amend
+
+learn how to use 
+git commit --amend

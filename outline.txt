@@ -11,3 +11,7 @@ start chapter 2
 test 
 
 test2 
+
+learn how to use 
+git commit --amend
+
